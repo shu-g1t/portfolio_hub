@@ -133,7 +133,7 @@ footer{
 }
 
 .portfolio_list h1{
-  border-bottom:1px solid #333;
+  border-bottom:1px solid #fafafa;
   width:980px;
   margin:0 auto;
   padding-top:20px;
@@ -164,8 +164,8 @@ footer{
 .portfolio_list--el img{
   height:200px;
   width:30%;
-  padding:5px;
-  border:1px solid #333;
+  padding:0px;
+  border:1px solid #fafafa;
   border-radius:3px;
 }
 .portfolio_list--el img:last-child{
