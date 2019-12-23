@@ -43,7 +43,7 @@ header{
   top:0;
 }
 .header-active{
-  background:rgba(0,3,5,0.8);
+  background:rgba(0,3,5,0.5);
 }
 
 .header-logo{
